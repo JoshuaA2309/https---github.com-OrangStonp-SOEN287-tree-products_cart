@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<products>
+  <p>      
+    <id>4</id>
+    <name>tomatoes</name>
+    <stock>30L</stock>
+    <price>216516</price>
+    
+      </p>
+    <p>      
+    <id>4</id>
+    <name>meat</name>
+    <stock>30L</stock>
+    <price>216516</price>
+    
+      </p>
+      <p>      
+    <id>4</id>
+    <name>milk</name>
+    <stock>30L</stock>
+    <price>216516</price>
+    
+      </p>
+
+</products>
